@@ -2,7 +2,7 @@ font_size: 12
 theme: pywal
 tree_1:
   general:
-    github: "https://www.github.com/"
+    github: "https://github.com/TechnicalDC"
     gmail: "https://mail.google.com/"
   reddit:
     frontpage: 
@@ -14,6 +14,5 @@ tree_2:
     archwiki: 
       - "https://archlinux.org/"
       - "arch wiki"
-    hulu: "https://www.hulu.com/"
-    netflix: "https://www.netflix.com/"
     youtube: "https://www.youtube.com/"
+    savefrom: "https://en.savefrom.net/"
